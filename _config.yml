@@ -1,0 +1,22 @@
+# Site settings
+title: Igor Danilov
+description: Resume
+# baseurl: "" # the subpath of your site, e.g. /blog
+
+# Server config options
+livereload: true
+
+# User settings
+username: Igor Danilov
+user_description: Android Apps & Unity Games Developer
+user_title: Android Apps & Unity Games Developer
+email: speaverse@gmail.com
+# twitter_username: lorem_ipsum
+# github_username:  lorem_ipsum
+# gplus_username:  lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
